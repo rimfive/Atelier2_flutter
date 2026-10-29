@@ -58,7 +58,8 @@ class MainApp extends StatelessWidget {
                     Icon(Icons.favorite, color: Colors.red, size: 40),
                   ],
                 ),
-               
+                SizedBox(height: 20),
+                Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
