@@ -13,8 +13,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: SingleChildScrollView(
-            
-          )
+          
           child: Column(
             children: [
               Text('Hello World!'),
